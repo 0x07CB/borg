@@ -1,4 +1,4 @@
-setuptools==60.7.1
+setuptools==65.5.1
 setuptools-scm==6.4.2
 pip==22.0.3
 virtualenv==20.13.0
